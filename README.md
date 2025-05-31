@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jatin
-- 👀 I’m interested in doing Open Source Contributions, explore new projects in C++ which is my primary language.
-- 🌱 I’m currently learning Go Lang alongisde my regular C++ development.
+- 👀 I’m interested in doing Open Source Contributions, explore and build new projects in C++ which is my primary language.
 
 <!---
 DigraJatin/DigraJatin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jatin, Software Dev from India.
 - 👀 I’m interested in doing Open Source Contributions, learn and build new projects in C++ which is my primary language.
 - 🏢 Currently working in Zscaler's Client Connector team, contributing as a C++ developer for windows platform.
-- 🧑‍💻 I Like to solve problems on Leetcode too, check out my profile - [Jatin's Leetcode](https://leetcode.com/jatindigra)
+- 🧑‍💻 I Like to solve problems on Leetcode too, check out my profile - [Jatin's Leetcode](https://leetcode.com/jatindigra06)
 - 🔓 **Open to new opportunities** — feel free to reach out at digrajatin@gmail.com
 <!---
 DigraJatin/DigraJatin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

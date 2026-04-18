@@ -1,13 +1,20 @@
-- 👋 Hi, I’m Jatin, Software Dev from India.
-- 👀 I’m interested in doing Open Source Contributions, learn and build new projects in C++ which is my primary language, but i have also been learning GoLang for to pursue interest in backedn dev.
-- 🏢 Currently working in Zscaler's Client Connector team, contributing as a C++ developer for windows platform.
-- 🧑‍💻 I Like to solve problems on Leetcode too, check out my profile - [Jatin's Leetcode](https://leetcode.com/jatindigra06)
-- 📚 My areas of interest include studying about Operating Systems, Databases, Compiler, Cryptography & BlockChain.
-- 🔓 **Open to new opportunities** — feel free to reach out at digrajatin@gmail.com
-- 📄 For detailed work experience and background - [Jatin's Resume](https://docs.google.com/document/d/1bLhKFytjg6IoEZyU94WUfM3v3Ozo7G5hbla-cfMZXU0/edit?usp=sharing)
-- 🌐 Portfolio and Blogs - [Website](https://digrajatin.github.io/PortFolio/home.html)
-- ![](https://komarev.com/ghpvc/?username=DigraJatin)
-<!---
-DigraJatin/DigraJatin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Jatin Digra  
+**Software Developer | C++ Systems Engineer**
+
+I am a software developer based in India, specializing in modern C++ and systems programming. Currently, I work at Zscaler as part of the Client Connector team, contributing to Windows-based security platforms with a focus on performance, reliability, and low-level system design.
+
+My interests include building high-performance systems and exploring core computer science areas such as operating systems, databases, compilers, cryptography, and distributed systems. I am also learning Go to expand into backend and distributed service development.
+
+I actively solve algorithmic problems on LeetCode to strengthen my understanding of data structures and algorithms.
+
+## Links
+- Resume: https://docs.google.com/document/d/1bLhKFytjg6IoEZyU94WUfM3v3Ozo7G5hbla-cfMZXU0/edit?usp=sharing  
+- LeetCode: https://leetcode.com/jatindigra06  
+
+## Opportunities
+I am open to new opportunities in systems programming, backend engineering, and performance-critical software development.  
+Contact: digrajatin@gmail.com  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=DigraJatin)

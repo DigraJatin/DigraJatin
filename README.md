@@ -6,6 +6,7 @@
 - 🔓 **Open to new opportunities** — feel free to reach out at digrajatin@gmail.com
 - 📄 For detailed work experience and background - [Jatin's Resume](https://docs.google.com/document/d/1bLhKFytjg6IoEZyU94WUfM3v3Ozo7G5hbla-cfMZXU0/edit?usp=sharing)
 - 🌐 Portfolio and Blogs - [Website](https://digrajatin.github.io/PortFolio/home.html)
+- ![](https://komarev.com/ghpvc/?username=DigraJatin)
 <!---
 DigraJatin/DigraJatin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

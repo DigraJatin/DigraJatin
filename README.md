@@ -1,19 +1,21 @@
-# Jatin Digra  
-**Software Developer | C++ Systems Engineer**
+# Software Engineer | Distributed Systems & Backend Infrastructure
 
-I am a software developer based in India, specializing in modern C++ and systems programming. Currently, I work at Zscaler as part of the Client Connector team, contributing to Windows-based security platforms with a focus on performance, reliability, and low-level system design.
+I’m a software engineer focused on building scalable backend systems, high-performance infrastructure, and low-latency distributed platforms.
 
-My interests include building high-performance systems and exploring core computer science areas such as operating systems, databases, compilers, cryptography, and distributed systems. I am also learning Go to expand into backend and distributed service development.
+Currently at Zscaler, I work on real-time communication systems, concurrent architectures, networking workflows, and platform libraries using C++, Go, and modern asynchronous programming models. My experience includes multithreading, WebSockets, RPC systems, IPC, SQLite/Redis-based persistence, and performance debugging.
 
-I actively solve algorithmic problems on LeetCode to strengthen my understanding of data structures and algorithms.
+I’m particularly interested in distributed systems, backend infrastructure, operating systems, networking, and systems design. I also actively practice Data Structures & Algorithms and have achieved LeetCode Knight.
 
-## Links
-- Resume: https://docs.google.com/document/d/1bLhKFytjg6IoEZyU94WUfM3v3Ozo7G5hbla-cfMZXU0/edit?usp=sharing  
-- LeetCode: https://leetcode.com/jatindigra06  
+Outside work, I contribute to open source and build systems-focused projects involving concurrency, scheduling, and scalable backend services.
 
-## Opportunities
-I am open to new opportunities in systems programming, backend engineering, and performance-critical software development.  
-Contact: digrajatin@gmail.com  
+## Profiles
+
+* LinkedIn: linkedin.com/in/jatin-5667431b6
+* LeetCode: leetcode.com/u/jatindigra06
+
+## Open To
+
+Backend Engineering • Distributed Systems • Systems Programming • Infrastructure Engineering
 
 ---
 

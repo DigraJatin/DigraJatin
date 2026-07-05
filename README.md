@@ -29,15 +29,8 @@ Software Engineer at **Zscaler** building high-performance software with **Moder
 **Tools**
 - CMake
 - Git
-- Docker *(Learning)*
-- Linux *(Learning)*
-
-## Current Focus
-
-- Linux Systems Programming
-- High-Performance HTTP Server (C++)
-- Docker & Kubernetes
-- Distributed Systems
+- Docker
+- Linux
 
 ## Profiles
 

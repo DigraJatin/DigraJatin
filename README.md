@@ -10,7 +10,7 @@ Software Engineer at **Zscaler** building high-performance software with **Moder
 - Networking
 - Software Architecture
 - Performance Engineering
-- Linux (Learning)
+- Linux
 
 ## Tech Stack
 

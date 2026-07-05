@@ -1,27 +1,51 @@
-# Software Engineer | Distributed Systems & Backend Infrastructure
+# Hi, I'm Jatin 👋
 
-I’m a software engineer focused on building scalable backend systems, high-performance infrastructure, and low-latency distributed platforms.
+Software Engineer at **Zscaler** building high-performance software with **Modern C++** and **Go**.
 
-Currently at Zscaler, I work on real-time communication systems, concurrent architectures, networking workflows, and platform libraries using C++, Go, and modern asynchronous programming models. My experience includes multithreading, WebSockets, RPC systems, IPC, SQLite/Redis-based persistence, and performance debugging.
+## Interests
 
-I’m particularly interested in distributed systems, backend infrastructure, operating systems, networking, and systems design. I also actively practice Data Structures & Algorithms and have achieved **LeetCode Knight**.
+- Systems Programming
+- Backend Infrastructure
+- Concurrency & Multithreading
+- Networking
+- Software Architecture
+- Performance Engineering
+- Linux (Learning)
 
-Outside work, I contribute to open source and build systems-focused projects involving concurrency, scheduling, and scalable backend services.
+## Tech Stack
 
----
+**Languages**
+- Modern C++ (C++17/20), Go, Python, C#
+
+**Core**
+- Multithreading
+- IPC
+- Async Programming
+- REST APIs
+- WebSockets
+- TCP/IP
+- SQLite
+
+**Tools**
+- CMake
+- Git
+- Docker *(Learning)*
+- Linux *(Learning)*
+
+## Current Focus
+
+- Linux Systems Programming
+- High-Performance HTTP Server (C++)
+- Docker & Kubernetes
+- Distributed Systems
 
 ## Profiles
 
-- LinkedIn: [linkedin.com/in/jatin-5667431b6](https://linkedin.com/in/jatin-5667431b6)
-- LeetCode: [leetcode.com/u/jatindigra06](https://leetcode.com/u/jatindigra06)
-- GitHub: [github.com/DigraJatin](https://github.com/DigraJatin)
+- 💼 LinkedIn: https://linkedin.com/in/jatin-5667431b6
+- 🧩 LeetCode: https://leetcode.com/u/jatindigra06
 
 ---
 
-## Open To
-
-**Backend Engineering • Distributed Systems • Systems Programming • Infrastructure Engineering**
-
----
+**Open to:** Systems Programming • Backend Infrastructure • Platform Engineering • Performance Engineering
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DigraJatin)
